@@ -7,4 +7,4 @@ happyHolidaysTo (name) {
   return 'Happy holidays, ${name{!}'
 }
 
-happyHolidaysTo("Nate")
+happyHolidaysTo('Nate')
